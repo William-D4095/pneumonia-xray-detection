@@ -16,4 +16,6 @@ demonstration of this working:
 https://drive.google.com/file/d/1T1s5ANJJl2RoLvTtC6Ve-vD5PhXZ59rS/view?usp=sharing
 kaggle dataset used to train this model:
 https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images/data
-to run: python3 predict_dev.py --image pneum_lungs.jpg
+
+
+run instructions: python3 predict_dev.py --image pneum_lungs.jpg
